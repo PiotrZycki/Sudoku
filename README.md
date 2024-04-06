@@ -12,7 +12,6 @@ Empty fields are represented as 0.
 
       `wypisz <input_file.txt>`
 
-
   
   *  Check
       Reads file and checks if sudoku is solvable
@@ -20,19 +19,16 @@ Empty fields are represented as 0.
       `sprawdz <input_file.txt>`
 
 
-
   *  Generate
       Creates random sudoku in one of the 3 difficulty levels: easy (latwe), medium (srednie), hard (trudne)
 
      `generuj <difficulty_level> <output_file.txt>`
 
-
-      
+     
   *  Solve
      Solves sudoku from file and puts the solution into different file.
 
      `rozwiazuj <input_file.txt> <output_file.txt>`
-
 
 
 
@@ -43,21 +39,13 @@ Empty fields are represented as 0.
 
 
       000000070
-      
       000000000
-      
       020000000
-      
       000100005
-      
       000000000
-      
       090080000
-      
       700000060
-      
       000058000
-      
       100400007
      
   
