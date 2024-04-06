@@ -56,6 +56,11 @@ Empty fields are represented as 0.
 
      ![Solution][solution]
 
+     ![Solution2][image]
+
+
+[image]: https://github.com/PiotrZycki/Sudoku/assets/96142056/3fc64d82-4dd8-4362-b92f-e55d6877b388
+
 
 [solution]: https://github.com/PiotrZycki/Sudoku/assets/96142056/b426cf61-f4f3-412e-801d-5e831f743df7
 
