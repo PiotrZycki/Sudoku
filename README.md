@@ -2,7 +2,7 @@
 
 
 # Sudoku
-A simple program generating, checking and solving sudoku.
+Simple program allowing to generate, check and solve sudoku.
 
 Input accepts .txt file filled with numbers.
 Numbers are arranged in 9 rows and columns.
