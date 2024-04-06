@@ -10,25 +10,25 @@ Empty fields are represented as 0.
   *  Print
       Reads numbers from file and shows them on the board.
 
-      Arguments:  `wypisz <input_file.txt>`
+      `wypisz <input_file.txt>`
 
   
   *  Check
       Reads file and checks if sudoku is solvable
 
-      Arguments:  `sprawdz <input_file.txt>`
+      `sprawdz <input_file.txt>`
 
 
   *  Generate
       Creates random sudoku in one of the 3 difficulty levels: easy (latwe), medium (srednie), hard (trudne)
 
-     Arguments:  `generuj <difficulty_level> <output_file.txt>`
+     `generuj <difficulty_level> <output_file.txt>`
 
       
   *  Solve
      Solves sudoku from file and puts the solution into different file.
 
-     Arguments:  `rozwiazuj <input_file.txt> <output_file.txt>`
+     `rozwiazuj <input_file.txt> <output_file.txt>`
 
 
 
@@ -36,17 +36,26 @@ Empty fields are represented as 0.
 
   *  File: plik_wejsciowy.txt
 
-  `
+
+    `
       000000070
+      
       000000000
+      
       020000000
+      
       000100005
+      
       000000000
+      
       090080000
+      
       700000060
+      
       000058000
+      
       100400007
-`
+    `
   
   *  Program arguments:
 
