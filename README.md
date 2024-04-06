@@ -37,7 +37,7 @@ Empty fields are represented as 0.
   *  File: plik_wejsciowy.txt
 
 
-    `
+
       000000070
       
       000000000
@@ -55,7 +55,7 @@ Empty fields are represented as 0.
       000058000
       
       100400007
-    `
+     
   
   *  Program arguments:
 
