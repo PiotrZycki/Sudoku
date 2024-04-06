@@ -1,3 +1,10 @@
+<style scoped>
+table {
+  font-size: 13px;
+}
+</style>
+
+
 # Sudoku
 A simple program generating, checking and solving sudoku.
 
