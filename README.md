@@ -19,14 +19,14 @@ Empty fields are represented as 0.
   
   *  Check
     
-      Reads file and checks if sudoku is solvable
+      Reads file and checks if sudoku is solvable.
 
       `sprawdz <input_file.txt>`
 
 
   *  Generate
     
-      Creates random sudoku in one of the 3 difficulty levels: easy (latwe), medium (srednie), hard (trudne)
+      Creates random sudoku in one of the 3 difficulty levels: easy (latwe), medium (srednie), hard (trudne).
 
      `generuj <difficulty_level> <output_file.txt>`
 
