@@ -34,7 +34,7 @@ Empty fields are represented as 0.
 
 ### Example:
 
-  *  File: plik_wejsciowy.txt
+  *  File: `plik_wejsciowy.txt`
 
      | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 7 | 0 |
      | - | - | - | - | - | - | - | - | - |
