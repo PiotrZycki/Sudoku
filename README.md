@@ -39,12 +39,6 @@ Empty fields are represented as 0.
 
   *  File: `plik_wejsciowy.txt`
 
-<style scoped>
-table {
-  font-size: 8px;
-}
-</style>
-
      | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 7 | 0 |
      | - | - | - | - | - | - | - | - | - |
      | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
